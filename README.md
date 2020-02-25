@@ -103,7 +103,7 @@
   * [装修与布线](#%E8%A3%85%E4%BF%AE%E4%B8%8E%E5%B8%83%E7%BA%BF)
   * [弱电箱、机柜](#%E5%BC%B1%E7%94%B5%E7%AE%B1%E6%9C%BA%E6%9F%9C)
   * [其他创意](#%E5%85%B6%E4%BB%96%E5%88%9B%E6%84%8F)
-- [网络诊断工具](#%E7%BD%91%E7%BB%9C%E8%AF%8A%E6%96%AD%E5%B7%A5%E5%85%B7)
+- [网络诊断、调试工具](#%E7%BD%91%E7%BB%9C%E8%AF%8A%E6%96%AD%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7)
 - [ISP 相关](#isp-%E7%9B%B8%E5%85%B3)
   * [运营商选择](#%E8%BF%90%E8%90%A5%E5%95%86%E9%80%89%E6%8B%A9)
   * [公网 IP、IPv6 地址的获取](#%E5%85%AC%E7%BD%91-ipipv6-%E5%9C%B0%E5%9D%80%E7%9A%84%E8%8E%B7%E5%8F%96)
@@ -1070,7 +1070,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [使用乐高积木搭建 UniFi 机架](https://community.ui.com/stories/How-my-Mini-Lego-Unifi-Rack-came-to-be/5eaabfb6-390c-4db0-a323-7ed938a5b651)
 * [3D 打印的 UniFi 机架](https://otichi.com/from-asus-to-unifi.html)
 
-## 网络诊断工具
+## 网络诊断、调试工具
 
 * [Speedtest by Ookla](https://www.speedtest.net/) 知名的测速工具
 * [DSLReports Speed Test](http://www.dslreports.com/) 网络测速工具，支持 Bufferbloat 测试
