@@ -941,7 +941,7 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 - [iOS 快捷指令](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
   - [‎DS router on the App Store](https://apps.apple.com/us/app/ds-router/id963699443): Synology Router Manager 的手机 App，支持 iOS 快捷指令
 - Alexa
-  - ASUS ROUTER: Alexa Skills](https://www.amazon.com/ASUS-ROUTER/dp/B07285G1RK)
+  - [ASUS ROUTER: Alexa Skills](https://www.amazon.com/ASUS-ROUTER/dp/B07285G1RK)
   - [Amazon Alexa Smart Home Connected Routers by NETGEAR](https://www.netgear.com/landings/amazon-alexa/)
   - [What is the TP-Link Router Alexa Skill and how do I use it?](https://www.tp-link.com/us/support/faq/1569/)
   - [Amazon Alexa | D-Link](https://us.dlink.com/en/alexa)
