@@ -1,7 +1,8 @@
-# Awesome Home Networking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Home Networking
 
-> 家庭网络知识整理
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+本文档主要用于整理家庭网络相关知识，目前由 [Blanboom](https://blanboom.org/) 维护。
 
 ## 目录
 
@@ -1158,7 +1159,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 
 ## 欢迎参与
 
-欢迎通过提交 Issue，或提交 Pull request 的方式，为本文档做出贡献。
+欢迎通过[提交 Issue](https://github.com/blanboom/awesome-home-networking-cn/issues/new)，或[提交 Pull request](https://github.com/blanboom/awesome-home-networking-cn/pulls) 的方式，为本文档做出贡献。
 
 本文档遵守[参与者公约](code-of-conduct.md)，此外，在做出贡献时，请注意以下几点：
 
