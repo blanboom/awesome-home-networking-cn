@@ -69,6 +69,7 @@
 - [技术概念](#%E6%8A%80%E6%9C%AF%E6%A6%82%E5%BF%B5)
   * [MU-MIMO](#mu-mimo)
   * [Wi-Fi 6、Wi-Fi 6E、Wi-Fi 6+](#wi-fi-6wi-fi-6ewi-fi-6)
+  * [160MHz 频宽](#160mhz-%E9%A2%91%E5%AE%BD)
 - [软硬件功能](#%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8A%9F%E8%83%BD)
   * [UPnP/NAT-PMP/端口映射](#upnpnat-pmp%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84)
   * [DDNS](#ddns)
@@ -672,11 +673,18 @@ Wi-Fi 6 是最新一代的 Wi-Fi 标准，基于 IEEE 802.11ax，通过多项技
 
 Wi-Fi 6E 则将 Wi-Fi 6 扩展到了 6GHz 频段。
 
-Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了 160MHz 和动态窄频宽等特性。具体技术细节暂时没有太多公开文档。
+Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了动态窄频宽等特性，能够自动调整频宽，兼顾吞吐量和覆盖范围。具体技术细节暂时没有太多公开文档。
 
 - [何为 802.11AX (WI-FI 6)？](https://www.arubanetworks.com/assets/_zh-hans/so/SO_80211ax.pdf)
 - [Wi-Fi CERTIFIED 6](https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-6)
 - [Wi-Fi Alliance® brings Wi-Fi 6 into 6 GHz](https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-brings-wi-fi-6-into-6-ghz)
+
+### 160MHz 频宽
+
+802.11ac 和 Wi-Fi 6 支持 160MHz 频宽，使用 160MHz 频宽能够大幅度提升 Wi-Fi 带宽，但是由于兼容性和干扰等问题，实际效果需要受到多种因素的影响，需要自行测试。
+
+- [160 MHz Wi-Fi Channels: Friend or Foe? - SmallNetBuilder](https://www.smallnetbuilder.com/wireless/wireless-features/33210-160-mhz-wi-fi-channels-friend-or-foe)
+- [160 MHz Wi-Fi Channels: Revisited - SmallNetBuilder](https://www.smallnetbuilder.com/wireless/wireless-features/33212-160-mhz-wi-fi-channels-revisited)
 
 ## 软硬件功能
 
