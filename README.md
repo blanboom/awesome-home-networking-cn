@@ -850,7 +850,8 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 - Apple: 自动为 HomeKit 设备设置严格的防火墙规则，提高安全性
   - [Apple lists the cameras and routers that will be compatible with the latest HomeKit features - 9to5Mac](https://9to5mac.com/2019/11/27/apple-lists-the-cameras-and-routers-that-will-be-compatible-with-the-latest-homekit-features/)
   - [在 Mac 上使用“家庭”配置路由器 - Apple 支持](https://support.apple.com/zh-cn/guide/home/hme76f51a4f3/mac)
-
+- [eero Now Supports Apple HomeKit](https://blog.eero.com/eero-now-supports-apple-homekit/)
+  
 - 小米：米家设备连 Wi-Fi 免输密码，提高初次设置设备时的便捷程度；同时为只能设备提供独立的频段，避免过多智能设备拖慢网速
   - [小米AIoT路由器 AX3600](https://www.mi.com/r3600)（参考「智能设备接入」相关描述）
 
