@@ -1051,6 +1051,12 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 - [适用于家用场景的电信 IPv6 网络和防火墙配置](https://zhuanlan.zhihu.com/p/40836019)
 - [请教： IPv6“内网”设备透出到到公网的正确姿势 - V2EX](https://www.v2ex.com/t/530084)
 
+###SSID 隐藏、MAC 地址过滤等功能是否能提高安全性？
+
+隐藏 SSID、MAC 地址过滤等功能，对提高安全性的作用有限，所以不建议打开：
+
+* [Wi-Fi 路由器和接入点的推荐设置 - Apple 支持](https://support.apple.com/zh-cn/HT202068)
+
 ## 网络质量优化
 
 * 无线网络相关参数的调整与优化
