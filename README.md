@@ -1084,6 +1084,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 
 * [使用乐高积木搭建 UniFi 机架](https://community.ui.com/stories/How-my-Mini-Lego-Unifi-Rack-came-to-be/5eaabfb6-390c-4db0-a323-7ed938a5b651)
 * [3D 打印的 UniFi 机架](https://otichi.com/from-asus-to-unifi.html)
+* [Ubiquiti Unifi Dream Machine Wall Mount](https://www.d3d.shop/listing/779073493/ubiquiti-unifi-dream-machine-wall-mount)
 
 ## 网络诊断、调试工具
 
