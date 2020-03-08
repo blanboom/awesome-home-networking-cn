@@ -58,7 +58,6 @@
   * [pfSence/OPNSense](#pfsenceopnsense)
   * [VyOS](#vyos)
   * [EdgeOS](#edgeos)
-  * [Synology Router Manager (SRM)](#synology-router-manager-srm)
   * [爱快 iKuaiOS](#%E7%88%B1%E5%BF%AB-ikuaios)
   * [Tomato](#tomato)
   * [DD-WRT](#dd-wrt)
@@ -395,18 +394,32 @@ H3C 原有业务主要侧重于企业网络，较晚推出家用无线路由器�
 
 #### 群晖 Synology
 
-NAS 厂商，较晚进入无线路由器领域。目前推出 RT1900ac、RT2600ac，以及 mesh 路由器 MR2200ac 三款产品。
+NAS 厂商，较晚进入无线路由器领域。目前推出 RT1900ac、RT2600ac，以及 mesh 路由器 MR2200ac 三款产品。其特色在于自带的 Synology Router Manager (SRM) 操作系统。
 
-群晖的路由器对新技术的应用比较积极，例如 WPA3、DNS over HTTPS、mesh 等，在手机 App 上也较早支持 Siri Shortcuts 等 iOS 新特性。其特色功能还有基于 Suricata 的 IPS/IDS，以及较为完善的家长控制。同时支持 File Station、Down Station、Media Server 等网络存储、媒体共享功能。图形界面与其 NAS 一致，对用户比较友好。
+SRM 基于群晖的 NAS 操作系统 [DSM](https://www.synology.com/zh-cn/dsm)，具有友好的用户界面，外接移动硬盘后，具有一定的 NAS 功能。并支持与其 NAS 相同的 [File Station](https://www.synology.com/zh-cn/knowledgebase/DSM/help/FileStation/FileBrowser_desc)、[Download Station](https://www.synology.com/zh-cn/knowledgebase/DSM/help/DownloadStation/DownloadStation_desc)、[Media Server](https://www.synology.com/zh-cn/knowledgebase/DSM/help/MediaServer/application_mediaserver_desc) 三大软件。
+
+SRM 对新技术的应用比较积极，例如 WPA3、DNS over HTTPS 等。SRM 上的家长控制/访问控制功能，以及基于 Suricata 的 IPS 功能，在同类产品中都较为强大。
+
+另外 SRM 一定程度上拥有安装第三方软件的功能。部分 DSM 软件经过修改后，可在 SRM 上运行。同时也可以在 SRM 上安装 optware/entware，通过 `opkg` 命令来安装更多软件。
 
 但群晖做为家用路由器的新厂商，在软件开发与发布流程上经验不足。曾经遇到过同一天发布多个版本才彻底解决一个问题的情况，以及新版本导致原先设置的计划任务失效、需要重新设置的问题（参考[此链接](https://www.synology.com/en-uk/releaseNote/RT2600ac)，版本 1.2.3-8017-4 中的描述）。另外在个人使用过程中，也遇到过网络不稳定，重启路由器才能恢复的问题。
 
 - [Synology 官网](https://www.synology.com/zh-cn)
+
 - [RT2600ac](https://www.synology.com/en-us/products/RT2600ac)
+
 - [MR2200ac](https://www.synology.com/en-us/products/MR2200ac): mesh 路由器
+
 - [Synology Router Manager (SRM) 操作系统](https://www.synology.com/zh-cn/srm)
-- [SRM: 访问控制（家长控制）](https://www.synology.com/zh-cn/srm/feature/device_content_control)
-- [SRM: 网络安全（IPS/IDS 等）](https://www.synology.com/zh-cn/srm/feature/secure_network_foundation)
+
+  - [网络安全/IPS](https://www.synology.com/zh-cn/srm/feature/secure_network_foundation)
+    - [Building an intrusion prevention system for small businesses and homes](https://blog.synology.com/building-an-intrusion-prevention-system-for-small-businesses-and-homes/)<br>本文介绍了 Synology 如何优化 Suricata，使其能在家用路由器上流畅运行的
+    - [DNS over HTTPS: things to consider when you go “private”](https://blog.synology.com/dns-over-https/)<br>本文介绍了 SRM 对于 DNS over HTTPS 的支持
+  - [访问控制/家长控制](https://www.synology.com/zh-cn/srm/feature/device_content_control)
+  - 安装第三方软件
+    - [RT1900ac 路由器折腾笔记：安装 Homebridge 和 Plex Media Server](https://blanboom.org/2017/plex-on-rt1900ac/)<br>我的一篇博文，涉及如何在 SRM 上安装 entware 和 DSM 套件
+    - [nelek's soapbox - A blog about creating packages for Synology DSM](https://synopackages.wordpress.com/)<br>一个个人博客，定期分享自己编译的、适用于 DSM/SRM 的软件（但没有开源，请自行判断是否存在安全风险）
+
 
 #### 优倍快 Ubiquiti
 
@@ -500,6 +513,8 @@ MikroTik 为知名软路由操作系统 RouterOS 的开发商，也推出了自�
 
 ## 操作系统
 
+本节主要介绍通用（支持在不同品牌设备上运行）的网络操作系统。对于 Synology Router Manager 等私有操作系统，请参考[设备厂商与品牌](#%E8%AE%BE%E5%A4%87%E5%8E%82%E5%95%86%E4%B8%8E%E5%93%81%E7%89%8C)部分。
+
 ### OpenWrt
 
 OpenWrt 是最知名的开源无线路由器操作系统，已支持大量厂商和品牌的路由器，也支持在 x86 电脑/服务器上运行。在 2016 年，OpenWrt 派生出 LEDE 项目，但在 2018 年，LEDE 重新合并回 OpenWrt，合并后继续使用 OpenWrt 的名称。
@@ -578,23 +593,6 @@ EdgeOS 仅能运行在 Ubiquiti 自己的 [EdgeRouter](https://www.ui.com.cn/edg
 
 - [EdgeOS User Guide](https://dl.ubnt.com/guides/edgemax/EdgeOS_UG.pdf)
 
-### Synology Router Manager (SRM)
-
-来自群晖的路由器操作系统，只能运行在群晖自家硬件上。
-
-SRM 基于群晖的 NAS 操作系统 [DSM](https://www.synology.com/zh-cn/dsm)，具有友好的用户界面，外接移动硬盘后，具有一定的 NAS 功能。并支持与其 NAS 相同的 [File Station](https://www.synology.com/zh-cn/knowledgebase/DSM/help/FileStation/FileBrowser_desc)、[Download Station](https://www.synology.com/zh-cn/knowledgebase/DSM/help/DownloadStation/DownloadStation_desc)、[Media Server](https://www.synology.com/zh-cn/knowledgebase/DSM/help/MediaServer/application_mediaserver_desc) 三大软件。
-
-其中，SRM 上的家长控制功能，是我目前见过的路由器中，最强大的家长控制。另外，SRM 上基于 Suricata 的 IPS 功能，在其他家用路由器上也比较少见。
-
-由于 SRM 基于 DSM，部分 DSM 软件经过修改后，可在 SRM 上运行。另外，也可以在 SRM 上安装 optware/entware，通过 opkg 命令来安装更多软件。
-
-- [Synology Router Manager 官网](https://www.synology.com/zh-cn/srm)
-- [网络安全/IPS](https://www.synology.com/zh-cn/srm/feature/secure_network_foundation)
-  - [Building an intrusion prevention system for small businesses and homes](https://blog.synology.com/building-an-intrusion-prevention-system-for-small-businesses-and-homes/)<br>本文介绍了 Synology 如何优化 Suricata，使其能在家用路由器上流畅运行的
-  - [DNS over HTTPS: things to consider when you go “private”](https://blog.synology.com/dns-over-https/)<br>本文介绍了 SRM 对于 DNS over HTTPS 的支持
-- [访问控制/家长控制](https://www.synology.com/zh-cn/srm/feature/device_content_control)
-- [RT1900ac 路由器折腾笔记：安装 Homebridge 和 Plex Media Server](https://blanboom.org/2017/plex-on-rt1900ac/)<br>我的一篇博文，涉及如何在 SRM 上安装 entware 和 DSM 套件
-- [nelek's soapbox - A blog about creating packages for Synology DSM](https://synopackages.wordpress.com/)<br>一个个人博客，定期分享自己编译的、适用于 DSM/SRM 的软件（但没有开源，请自行判断是否存在安全风险）
 
 ### 爱快 iKuaiOS
 
