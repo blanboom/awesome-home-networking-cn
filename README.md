@@ -1110,6 +1110,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [iStumbler](https://istumbler.net/) macOS 上的 Wi-Fi 扫描工具
 * [WiFi Explorer](https://www.adriangranados.com/) macOS 上的 Wi-Fi 扫描工具
 * [Hurricane Electric Network Tools](https://networktools.he.net/) 用于 iOS 和 Android 的网络工具箱，包含 DNS 查询、接口信息、iPerf、Bonjour 浏览器等多种工具
+* [Rumble Network Discovery](https://www.rumble.run/) 功能强大的局域网扫描工具
 
 ## ISP 相关
 
