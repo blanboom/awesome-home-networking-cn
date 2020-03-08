@@ -70,6 +70,7 @@
   * [MU-MIMO](#mu-mimo)
   * [Wi-Fi 6、Wi-Fi 6E、Wi-Fi 6+](#wi-fi-6wi-fi-6ewi-fi-6)
   * [160MHz 频宽](#160mhz-%E9%A2%91%E5%AE%BD)
+  * [PA/LNA/功放](#palna%E5%8A%9F%E6%94%BE)
 - [软硬件功能](#%E8%BD%AF%E7%A1%AC%E4%BB%B6%E5%8A%9F%E8%83%BD)
   * [UPnP/NAT-PMP/端口映射](#upnpnat-pmp%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84)
   * [DDNS](#ddns)
@@ -686,6 +687,16 @@ Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了动态窄频宽等特性，能�
 
 - [160 MHz Wi-Fi Channels: Friend or Foe? - SmallNetBuilder](https://www.smallnetbuilder.com/wireless/wireless-features/33210-160-mhz-wi-fi-channels-friend-or-foe)
 - [160 MHz Wi-Fi Channels: Revisited - SmallNetBuilder](https://www.smallnetbuilder.com/wireless/wireless-features/33212-160-mhz-wi-fi-channels-revisited)
+
+### PA/LNA/功放
+
+在阅读路由器的评测、产品介绍页面时，经常会看到 PA、LNA 等概念。其中，PA 为功率放大器，用于增强发射信号的功率，LNA 为低噪声放大器，用于增强接收到的信号。
+
+拥有 PA/LNA 的无线路由器/AP，能够获得更好的信号。
+
+* [什么是PA，与LNA的区别是什么-电子发烧友网](http://m.elecfans.com/article/711953.html)
+* [Understanding the Basics of Low-Noise | DigiKey](https://www.digikey.com/en/articles/techzone/2013/oct/understanding-the-basics-of-low-noise-and-power-amplifiers-in-wireless-designs)
+* [amplifier - What is a PA/LNA? - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/237267/what-is-a-pa-lna)
 
 ## 软硬件功能
 
