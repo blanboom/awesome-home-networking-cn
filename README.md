@@ -91,6 +91,7 @@
   * [网络存储、媒体中心](#%E7%BD%91%E7%BB%9C%E5%AD%98%E5%82%A8%E5%AA%92%E4%BD%93%E4%B8%AD%E5%BF%83)
   * [第三方服务整合](#%E7%AC%AC%E4%B8%89%E6%96%B9%E6%9C%8D%E5%8A%A1%E6%95%B4%E5%90%88)
   * [Bonjour/mDNS](#bonjourmdns)
+  * [校园网](#%E6%A0%A1%E5%9B%AD%E7%BD%91)
 - [安全性](#%E5%AE%89%E5%85%A8%E6%80%A7)
   * [开源固件 vs 闭源固件](#%E5%BC%80%E6%BA%90%E5%9B%BA%E4%BB%B6-vs-%E9%97%AD%E6%BA%90%E5%9B%BA%E4%BB%B6)
   * [官方版固件 vs 修改版固件](#%E5%AE%98%E6%96%B9%E7%89%88%E5%9B%BA%E4%BB%B6-vs-%E4%BF%AE%E6%94%B9%E7%89%88%E5%9B%BA%E4%BB%B6)
@@ -966,6 +967,15 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 - [OpenWrt Project: Zero configuration networking in OpenWrt](https://openwrt.org/docs/guide-user/network/zeroconfig/zeroconf)
 - [Need Bonjour across VLANs? Set Up an Avahi Reflector!](http://chrisreinking.com/need-bonjour-across-vlans-set-up-an-avahi-gateway/)
 - [UniFi - Best Practices for Managing Chromecast/Google Home on UniFi Network – Ubiquiti Networks Support and Help Center](https://help.ubnt.com/hc/en-us/articles/360001004034-UniFi-Best-Practices-for-Managing-Chromecast-Google-Home-on-UniFi-Network#create)
+
+### 校园网
+
+不同学校的校园网有着不同的认证方式，部分学校还会使用私有协议。对于校园网，建议先在学校论坛等社区了解本校的校园网是否可以在 OpenWrt 等设备上连接和认证。
+
+* [liuqun/njit8021xclient: 南京工程学院802.1X客户端（Linux版兼容H3C/iNode V2.40-F0335）](https://github.com/liuqun/njit8021xclient)：802.1x 认证
+* [MentoHUST (简体中文) - ArchWiki](https://wiki.archlinux.org/index.php/MentoHUST_(简体中文))：锐捷认证
+* [drcoms/drcom-generic: Dr.COM/DrCOM 现已覆盖 d p x三版。](https://github.com/drcoms/drcom-generic)：Dr.COM 认证
+* [路由器认证校园网的一个思路 | Damon Lee 's blog](http://blog.zhenglee.top/2018/08/09/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%AE%A4%E8%AF%81%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%9A%84%E4%B8%80%E4%B8%AA%E6%80%9D%E8%B7%AF/index.html)：Portal 认证
 
 ## 安全性
 
