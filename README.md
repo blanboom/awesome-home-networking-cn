@@ -25,7 +25,8 @@
     + [开发板](#%E5%BC%80%E5%8F%91%E6%9D%BF)
     + [企业级设备](#%E4%BC%81%E4%B8%9A%E7%BA%A7%E8%AE%BE%E5%A4%87)
     + [其他](#%E5%85%B6%E4%BB%96)
-  * [厂商与品牌](#%E5%8E%82%E5%95%86%E4%B8%8E%E5%93%81%E7%89%8C)
+  * [选购指南](#%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97)
+  * [设备厂商与品牌](#%E8%AE%BE%E5%A4%87%E5%8E%82%E5%95%86%E4%B8%8E%E5%93%81%E7%89%8C)
     + [TP-LINK / MERCURY / FAST](#tp-link--mercury--fast)
     + [华硕 ASUS](#%E5%8D%8E%E7%A1%95-asus)
     + [网件 NETGEAR](#%E7%BD%91%E4%BB%B6-netgear)
@@ -48,7 +49,7 @@
     + [eero](#eero)
     + [Google Nest Wi-Fi](#google-nest-wi-fi)
     + [诺基亚 Nokia](#%E8%AF%BA%E5%9F%BA%E4%BA%9A-nokia)
-  * [选购指南](#%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97)
+  * [芯片厂商](#%E8%8A%AF%E7%89%87%E5%8E%82%E5%95%86)
 - [操作系统](#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
   * [OpenWrt](#openwrt)
   * [ASUSWRT](#asuswrt)
@@ -238,8 +239,6 @@
 - [Marvell ESPRESSObin](http://espressobin.net/#1479827193124-28c92b06-d318)<br>带有三个网口、SATA 接口的开发板，并具有硬件转发芯片
 - [NanoPi R2S](http://wiki.friendlyarm.com/wiki/index.php/NanoPi_R2S/zh)<br>带有两个网口的开发板，能够运行 Linux，体积小巧。
 
-
-
 #### 企业级设备
 
 对于网络爱好者，也可考虑企业级网络设备，例如 Aruba、Ruckus、CISCO，或者国内华为、H3C、锐捷等厂商的设备。
@@ -255,7 +254,12 @@
 - [Fingbox](https://www.fing.com/products/fingbox): 集成了局域网扫描、家长控制、带宽监控等功能的独立硬件
 - [Circle](https://meetcircle.com/): 具有家长控制功能的独立硬件
 
-### 厂商与品牌
+### 选购指南
+
+- [How To Buy A Wireless Router - 2018 Edition](https://www.smallnetbuilder.com/basics/wireless-basics/33177-how-to-buy-a-wireless-router-2018-edition)
+- [How To Buy A Wireless Router - 2017 Edition](https://www.smallnetbuilder.com/basics/wireless-basics/33029-how-to-buy-a-wireless-router-2017-edition)
+
+### 设备厂商与品牌
 
 #### TP-LINK / MERCURY / FAST
 
@@ -478,11 +482,21 @@ MikroTik 为知名软路由操作系统 RouterOS 的开发商，也推出了自�
 
 - [Nokia Wi-Fi 官网](https://www.nokia.com/zh_int/node/76546/)
 
+### 芯片厂商
 
-### 选购指南
+大多家用无线路由器中的 SoC，一般来自 MediaTek/Ralink、Broadcom、Qualcomm/Atheros、Realtek、Intel 等几大芯片厂商。
 
-- [How To Buy A Wireless Router - 2018 Edition](https://www.smallnetbuilder.com/basics/wireless-basics/33177-how-to-buy-a-wireless-router-2018-edition)
-- [How To Buy A Wireless Router - 2017 Edition](https://www.smallnetbuilder.com/basics/wireless-basics/33029-how-to-buy-a-wireless-router-2017-edition)
+* [Broadcom Inc. | Connecting Everything](https://www.broadcom.cn/)
+* [Wireless Technology & Innovation | Mobile Technology | Qualcomm](https://www.qualcomm.com/)
+* [联发科技-全球尖端无晶元半导体公司](https://www.mediatek.cn/)
+* [首页 - 瑞昱半导体](https://www.realtek.com/zh/)
+* [Intel - Smart and Connected Home Products](https://www.intel.com/content/www/us/en/products/devices-systems/home-networking.html)
+* [看完它，你就全懂了十大Wifi芯片原厂！\_嵌入式\_whatnamecaniuse的专栏-CSDN博客](https://blog.csdn.net/whatnamecaniuse/article/details/80358415)
+* [咦WiFi怎么又断了？选对路由器芯片很关键！\_值客原创\_什么值得买](https://post.smzdm.com/p/746035/)
+* [MTK路由器和博通路由器有什么差距呢？博通使用上有提升吗？ - 斐讯无线路由器以及其它斐迅网络设备 - 恩山无线论坛 - Powered by Discuz!](https://www.right.com.cn/forum/thread-219324-1-1.html)
+* [无线路由器CPU浅析 MT7621A、 BCM47189 到底谁强？\_嵌入式\_lightrain0的博客-CSDN博客](https://blog.csdn.net/lightrain0/article/details/84979245)
+* [无线路由器未来大家是看好博通、高通还是联发科？ - 网络设备 - KoolShare - 源于玩家 服务玩家](https://koolshare.cn/thread-23553-1-1.html)
+
 
 ## 操作系统
 
