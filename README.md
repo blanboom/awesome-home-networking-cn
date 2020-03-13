@@ -1207,6 +1207,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 ## 综合案例
 
 * [Unifi全家桶高级组网方案](https://bbs.ui.com.cn/t/unifi/48147)
+* [Tour of Home Network 2020 - The 8-Bit Guy](https://www.youtube.com/watch?v=Ev0PL892zSE)
 
 ## 欢迎参与
 
