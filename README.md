@@ -685,13 +685,15 @@ MU-MIMO 是 802.11ac Wave 2 中增加的特性，能够让多个设备同时与�
 
 Wi-Fi 6 是最新一代的 Wi-Fi 标准，基于 IEEE 802.11ax，通过多项技术提升了多用户接入下的稳定性和吞吐量。2019 年之后上市的不少无线路由器，已经支持 Wi-Fi 6。
 
-Wi-Fi 6E 则将 Wi-Fi 6 扩展到了 6GHz 频段。
-
-Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了动态窄频宽等特性，能够自动调整频宽，兼顾吞吐量和覆盖范围。具体技术细节暂时没有太多公开文档。
-
 - [何为 802.11AX (WI-FI 6)？](https://www.arubanetworks.com/assets/_zh-hans/so/SO_80211ax.pdf)
 - [Wi-Fi CERTIFIED 6](https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-6)
+- [Wi-Fi 6 对我们的日常生活有哪些帮助 | 科普 - 少数派](https://sspai.com/post/60464)
+
+Wi-Fi 6E 则将 Wi-Fi 6 扩展到了 6GHz 频段。
+
 - [Wi-Fi Alliance® brings Wi-Fi 6 into 6 GHz](https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-brings-wi-fi-6-into-6-ghz)
+
+Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了动态窄频宽等特性，能够自动调整频宽，兼顾吞吐量和覆盖范围。具体技术细节暂时没有太多公开文档。
 
 ### 160MHz 频宽
 
