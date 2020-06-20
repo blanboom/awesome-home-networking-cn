@@ -891,6 +891,7 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 - HomeBridge、Home Assistant 整合<br>对于开放的路由器操作系统，还可以实现在路由器上运行 HomeBridge，或者将路由器接入 Home Assistant。
   - [RT1900ac 路由器折腾笔记：安装 Homebridge 和 Plex Media Server – Blanboom](https://blanboom.org/2017/plex-on-rt1900ac/)
   - [OpenWRT - Home Assistant](https://www.home-assistant.io/integrations/openwrt/)
+  - [misenhower/homebridge-unifi-led-control](https://github.com/misenhower/homebridge-unifi-led-control): 通过 HomeBridge 控制 UniFi 设备上的 LED
 
 ### 运行第三方应用
 
