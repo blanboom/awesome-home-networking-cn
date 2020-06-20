@@ -1138,6 +1138,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [Rumble Network Discovery](https://www.rumble.run/) 功能强大的局域网扫描工具
 * [macOS 自带的无线诊断](https://support.apple.com/zh-cn/guide/mac-help/mchlf4de377f/mac) macOS 自带「无线诊断」工具，具有 Wi-Fi 扫描、查看 Wi-Fi 日志、推荐最佳 Wi-Fi 频段、Wi-Fi 性能监控、抓包等功能
 * [TP-LINK 网络百宝箱](https://apps.apple.com/app/id1502063951)
+* [Netool.io - Network Engineer Tool](https://netool.io/) 小巧便携的网络诊断工具
 
 ## ISP 相关
 
