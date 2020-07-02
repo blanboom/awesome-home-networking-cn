@@ -13,6 +13,7 @@
     * [讨论区](#%E8%AE%A8%E8%AE%BA%E5%8C%BA)
     * [相关组织](#%E7%9B%B8%E5%85%B3%E7%BB%84%E7%BB%87)
     * [YouTuber、Bilibili UP 主](#youtuberbilibili-up-%E4%B8%BB)
+    * [书籍、教程](#%E4%B9%A6%E7%B1%8D%E6%95%99%E7%A8%8B)
   * [硬件设备](#%E7%A1%AC%E4%BB%B6%E8%AE%BE%E5%A4%87)
     * [设备类型](#%E8%AE%BE%E5%A4%87%E7%B1%BB%E5%9E%8B)
       * [无线路由器](#%E6%97%A0%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8)
@@ -163,6 +164,11 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Bilibili: NGXHK](https://space.bilibili.com/30496941)
 * [Bilibili: Vedio Talk](https://space.bilibili.com/28459251)
 * [Bilibili: 悟空的日常](https://space.bilibili.com/250915741)
+
+### 书籍、教程
+
+- [Linux Advanced Routing & Traffic Control HOWTO](https://lartc.org/)
+  - [Linux 的高级路由和流量控制 HOWTO 中文版](https://lartc.org/LARTC-zh_CN.GB2312.pdf)
 
 ## 硬件设备
 
