@@ -95,6 +95,7 @@
     * [Bonjour/mDNS](#bonjourmdns)
     * [校园网](#%E6%A0%A1%E5%9B%AD%E7%BD%91)
   * [安全性](#%E5%AE%89%E5%85%A8%E6%80%A7)
+    * [相关文章](#%E7%9B%B8%E5%85%B3%E6%96%87%E7%AB%A0)
     * [开源固件 vs 闭源固件](#%E5%BC%80%E6%BA%90%E5%9B%BA%E4%BB%B6-vs-%E9%97%AD%E6%BA%90%E5%9B%BA%E4%BB%B6)
     * [官方版固件 vs 修改版固件](#%E5%AE%98%E6%96%B9%E7%89%88%E5%9B%BA%E4%BB%B6-vs-%E4%BF%AE%E6%94%B9%E7%89%88%E5%9B%BA%E4%BB%B6)
     * [软件更新](#%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0)
@@ -1010,6 +1011,10 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 * [路由器认证校园网的一个思路 | Damon Lee 's blog](http://blog.zhenglee.top/2018/08/09/%E8%B7%AF%E7%94%B1%E5%99%A8%E8%AE%A4%E8%AF%81%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%9A%84%E4%B8%80%E4%B8%AA%E6%80%9D%E8%B7%AF/index.html)：Portal 认证
 
 ## 安全性
+
+### 相关文章
+
+- [Home Router Security Report 2020](https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/HomeRouter/HomeRouterSecurity_2020_Bericht.pdf)
 
 ### 开源固件 vs 闭源固件
 
