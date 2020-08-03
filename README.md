@@ -738,7 +738,7 @@ Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了动态窄频宽等特性，能�
 DDNS 也是大部分家用路由器都会拥有的一个常见功能。由于家庭宽带的公网 IP 是不固定的，每次重启路由器，都可能获取到一个新的 IP 地址。通过 DDNS，能够通过一个固定的域名来从外部访问家庭网络中的设备。
 
 - [动态DNS - 维基百科](https://zh.wikipedia.org/zh-cn/%E5%8B%95%E6%85%8BDNS)
-- [无线路由器DDNS功能配置教程](https://www.tenda.com.cn/faq/9530.html)
+- [DDNS简单教程](https://zhuanlan.zhihu.com/p/46580280)
 
 ### 流量整形与 QoS
 
