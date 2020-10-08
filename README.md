@@ -263,7 +263,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### 选购指南
 
 - [How To Buy A Wireless Router - 2018 Edition](https://www.smallnetbuilder.com/basics/wireless-basics/33177-how-to-buy-a-wireless-router-2018-edition)
+
 - [How To Buy A Wireless Router - 2017 Edition](https://www.smallnetbuilder.com/basics/wireless-basics/33029-how-to-buy-a-wireless-router-2017-edition)
+
+- [2020 生活手册系列：家用网络配置与选购指南 – Yachen's Blog](https://yach.me/2020/10/06/2020-生活手册系列：家用网络配置与选购指南/)
 
 ### 设备厂商与品牌
 
@@ -1120,6 +1123,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 - [装修那点破事 篇三：外番 — 被坑的网线 - 什么值得买](https://post.smzdm.com/p/560761/)
 - [万兆光纤布网实战攻略，让光纤铺满你家！](https://www.bilibili.com/video/av59732534/)
 - [对于数码控，在装修方面有哪些好的设计？ - 知乎](https://www.zhihu.com/question/21170551)
+- [家庭 10Gbps 网络施工指南 – Yachen's Blog](https://yach.me/2020/08/29/家庭-10gbps-网络施工指南/)
 
 ### 弱电箱、机柜
 
