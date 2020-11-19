@@ -62,6 +62,7 @@
     * [爱快 iKuaiOS](#%E7%88%B1%E5%BF%AB-ikuaios)
     * [Tomato](#tomato)
     * [DD\-WRT](#dd-wrt)
+    * [高恪](#%E9%AB%98%E6%81%AA)
   * [组网相关](#%E7%BB%84%E7%BD%91%E7%9B%B8%E5%85%B3)
     * [mesh 网络、有线回程](#mesh-%E7%BD%91%E7%BB%9C%E6%9C%89%E7%BA%BF%E5%9B%9E%E7%A8%8B)
     * [有线路由器 \+ AC \+ AP](#%E6%9C%89%E7%BA%BF%E8%B7%AF%E7%94%B1%E5%99%A8--ac--ap)
@@ -611,7 +612,6 @@ EdgeOS 仅能运行在 Ubiquiti 自己的 [EdgeRouter](https://www.ui.com.cn/edg
 部分旧版本的 iKuaiOS，有不少人反映有流量劫持等问题。
 
 - [iKuaiOS 官网](https://www.ikuai8.com/product/rjcp/routersystem.html)
-
 - [强烈谴责爱快的劫持行为。速来测试](https://www.anywlan.com/thread-393451-1-1.html)
 
 ### Tomato
@@ -627,6 +627,17 @@ EdgeOS 仅能运行在 Ubiquiti 自己的 [EdgeRouter](https://www.ui.com.cn/edg
 ### DD-WRT
 
 - [DD-WRT 官网](https://dd-wrt.com/)
+
+### 高恪
+
+适配 K2P、newifi 3 等无线路由器，特色功能包括网管流控、内容协议识别、客户端访问网址查询等
+
+缺点：
+
+1. 如果想要网络类型为 NAT1，需要付费购买授权
+2. 目前还不支持 IPv6
+
+- [高恪官网论坛固件发布区](http://www.gocloud.cn/bbs/forum-51-1.html)
 
 ## 组网相关
 
