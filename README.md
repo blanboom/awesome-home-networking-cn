@@ -623,7 +623,7 @@ EdgeOS 仅能运行在 Ubiquiti 自己的 [EdgeRouter](https://www.ui.com.cn/edg
 * [AdvancedTomato :: Open Source Broadcom Firmware](https://advancedtomato.com/)
 * [Tomato Koolshare 修改版](https://koolshare.cn/forum-102-1.html)
 * [Tomato - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/Tomato)
-
+* [Fresh Tomato 老机型友好仍在更新，muti-wan，IPV6，Qos,Server](http://freshtomato.org/)
 ### DD-WRT
 
 - [DD-WRT 官网](https://dd-wrt.com/)
