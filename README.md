@@ -215,6 +215,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 由于软路由使用通用的硬件、拥有较大的内存、大多运行基于 Linux 或 FreeBSD 的操作系统，能够通过软件扩充更多功能，具有更强的灵活性。在性能上，软路由具有更强大的 CPU，但普通的路由器能够通过专门的硬件实现路由转发、QoS、NAT 等功能，无法进行简单的对比。
 
 * [软路由是什么？ - 知乎](https://www.zhihu.com/question/263523980)
+* [从听说到上手，人人都能看懂的软路由入门指南 - 少数派](https://sspai.com/post/58628)
 
 #### 光猫
 
