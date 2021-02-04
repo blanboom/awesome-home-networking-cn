@@ -769,10 +769,7 @@ DDNS 也是大部分家用路由器都会拥有的一个常见功能。由于家
 - [Introduction - Bufferbloat.net](https://www.bufferbloat.net/projects/bloat/wiki/Introduction/)
 - [OpenWrt Project: QoS (aka Network Traffic Control)](https://openwrt.org/docs/guide-user/network/traffic-shaping/packet.scheduler)
 - [OpenWrt Project: SQM (aka Smart Queue Management)](https://openwrt.org/docs/guide-user/network/traffic-shaping/sqm)
-	- [Codel Wiki - Bufferbloat.net](https://www.bufferbloat.net/projects/codel/wiki/)
-	- [CakeTechnical - Bufferbloat.net](https://www.bufferbloat.net/projects/codel/wiki/CakeTechnical/)
-	- [Let them run CAKE - LWN.net](https://lwn.net/Articles/758353/)
-	- [可能是家庭路由里最好的QoS——在线游戏者的福音 - 网络设备 - KoolShare - 源于玩家 服务玩家](http://koolshare.cn/thread-71762-1-1.html)
+  - [「智能队列」如何改善你的家庭网络质量 - 少数派](https://sspai.com/post/64870)
 - [openwrt下各种qos(sqm,石像鬼，qosv4，nft-qos，emong-qos)使用心得 - OPENWRT专版 - 恩山无线论坛 - Powered by Discuz!](https://www.right.com.cn/forum/thread-511173-1-1.html)
 - [Traffic Shaper — Configuring Traffic Shaping | pfSense Documentation](https://docs.netgate.com/pfsense/en/latest/trafficshaper/traffic-shaping-guide.html)<br>pfSense 中的流量整形配置指南
 	- [How I Maximized the Speed of My Non-Gigabit Internet Connection](https://www.speedtest.net/insights/blog/maximized-speed-non-gigabit-internet-connection/)<br>speedtest.net 工程师的一篇博文，介绍了作者在家中的 pfSense 路由器上，是如何配置 QoS 的
