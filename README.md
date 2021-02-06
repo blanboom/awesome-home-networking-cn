@@ -135,6 +135,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [ServeTheHome](https://www.servethehome.com/)
 * [WikiDevi](https://web.archive.org/web/20191022065144/https://wikidevi.com/wiki/Main_Page): 一个关于无线芯片、网络设备等硬件的 Wiki，目前网站已关闭
 * [fccid.io](https://fccid.io/): 能够找到各种无线设备的说明书、照片、拆机图等
+* [INCREASE BROADBAND SPEED Tips and Guides](https://www.increasebroadbandspeed.co.uk/)
+* [StopLagging.com](https://www.stoplagging.com/)
 
 ### 讨论区
 
