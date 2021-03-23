@@ -50,6 +50,7 @@
       * [eero](#eero)
       * [Google Nest Wi\-Fi](#google-nest-wi-fi)
       * [诺基亚 Nokia](#%E8%AF%BA%E5%9F%BA%E4%BA%9A-nokia)
+      * [烽火 FiberHome](#%E7%83%BD%E7%81%AB-fiberhome)
     * [芯片厂商](#%E8%8A%AF%E7%89%87%E5%8E%82%E5%95%86)
   * [操作系统](#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
     * [OpenWrt](#openwrt)
@@ -155,6 +156,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### 相关组织
 
 * [Wi-Fi Alliance](https://www.wi-fi.org/zh-hans)
+* [Broadband Forum](https://www.broadband-forum.org/)
 * [国家无线电监测中心](http://www.srrc.org.cn/index2018.aspx)
 
 
@@ -509,15 +511,25 @@ MikroTik 为知名软路由操作系统 RouterOS 的开发商，也推出了自�
 
 - [Nokia Wi-Fi 官网](https://www.nokia.com/zh_int/node/76546/)
 
+#### 烽火 FiberHome
+
+发源于武汉邮电科学研究院的央企，专于光通信领域，在运营商网络中有大量光猫、机顶盒等设备。
+
+近年开始以MIFON品牌投入消费者领域，主打mesh功能。
+
+- [烽火通信官网](https://www.fiberhome.com/)
+- [MIFON官网](https://mifon.com/)
+
 ### 芯片厂商
 
-大多家用无线路由器中的 SoC，一般来自 MediaTek/Ralink、Broadcom、Qualcomm/Atheros、Realtek、Intel 等几大芯片厂商。
+大多家用无线路由器中的 SoC，一般来自 MediaTek/Ralink、Broadcom、Qualcomm/Atheros、Realtek、Intel、海思 等几大芯片厂商。
 
 * [Broadcom Inc. | Connecting Everything](https://www.broadcom.cn/)
 * [Wireless Technology & Innovation | Mobile Technology | Qualcomm](https://www.qualcomm.com/)
 * [联发科技-全球尖端无晶元半导体公司](https://www.mediatek.cn/)
 * [首页 - 瑞昱半导体](https://www.realtek.com/zh/)
 * [Intel - Smart and Connected Home Products](https://www.intel.com/content/www/us/en/products/devices-systems/home-networking.html)
+* [海思- 使能全场景智能终端](https://www.hisilicon.com/cn/)
 * [看完它，你就全懂了十大Wifi芯片原厂！\_嵌入式\_whatnamecaniuse的专栏-CSDN博客](https://blog.csdn.net/whatnamecaniuse/article/details/80358415)
 * [咦WiFi怎么又断了？选对路由器芯片很关键！\_值客原创\_什么值得买](https://post.smzdm.com/p/746035/)
 * [MTK路由器和博通路由器有什么差距呢？博通使用上有提升吗？ - 斐讯无线路由器以及其它斐迅网络设备 - 恩山无线论坛 - Powered by Discuz!](https://www.right.com.cn/forum/thread-219324-1-1.html)
@@ -653,6 +665,8 @@ mesh 网络在多台无线路由器间相互组网，以提高 Wi-Fi 覆盖范�
 
   - [AiMesh](https://www.asus.com/Microsite/AiMesh/cn/)
 - 不同厂商设备间的 mesh
+  - [EasyMesh](https://www.wi-fi.org/zh-hans/discover-wi-fi/wi-fi-easymesh)<br>Wi-Fi联盟制定的标准，旨在使不同厂商设备可互操作，通过Wi-Fi联盟EasyMesh认证的设备即可以共同进行组网。作为一项较新的技术标准，目前支持的设备还不多，国内关注的厂商主要有华为、中兴、烽火、友讯等。
+  
 - 有线回程<br>大多数厂商的无线 mesh 系统，都支持有线回程功能。即 mesh 节点之间的通信，通过有线的方式进行，进一步增大带宽和稳定性。确定是需要重新复杂的布线工作。
 
   - [Mesh 路由器有线回程布线方案](https://xoyozo.net/Blog/Details/mesh-wired-backhaul#)
