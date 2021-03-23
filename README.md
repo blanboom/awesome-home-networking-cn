@@ -42,6 +42,7 @@
       * [360](#360)
       * [群晖 Synology](#%E7%BE%A4%E6%99%96-synology)
       * [优倍快 Ubiquiti](#%E4%BC%98%E5%80%8D%E5%BF%AB-ubiquiti)
+      * [Aruba Networks](#aruba-networks)
       * [Apple AirPort](#apple-airport)
       * [MikroTik](#mikrotik)
       * [竞斗云](#%E7%AB%9E%E6%96%97%E4%BA%91)
@@ -446,6 +447,14 @@ SRM 对新技术的应用比较积极，例如 WPA3、DNS over HTTPS 等。SRM �
 - [EdgeMax 系列](https://www.ui.com.cn/products/#edgemax)：主打企业级的网络设备，包括路由器和交换机，配置比较丰富，可通过免费的 UNMS 实现部分的管理功能
 - [AmpliFi 系列](https://amplifi.com.cn/)：主打家用 mesh 系统，较早提出「家用 mesh 路由器」的概念。工业设计出色
   - [家用 Wi-Fi 的变迁](https://blog.ui.com.cn/post/evolution-home-wi-fi/)
+
+#### Aruba Networks
+
+HPE 在 2015 年 5 月完成了对其的收购因此 Aruba 成为了 HPE 旗下的子公司
+
+由于 Aruba AP 1xx 产品线在 2020 年 8 月 1 日全面结束支持使得二手价格极为便宜，体验 Aruba AP 产品来说是相当划算的
+
+see <https://www.arubanetworks.com/zh-hans/support-services/end-of-life/>
 
 #### Apple AirPort
 
