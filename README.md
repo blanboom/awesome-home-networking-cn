@@ -524,10 +524,10 @@ MikroTik 为知名软路由操作系统 RouterOS 的开发商，也推出了自�
 
 发源于武汉邮电科学研究院的央企，专于光通信领域，在运营商网络中有大量光猫、机顶盒等设备。
 
-近年开始以MIFON品牌投入消费者领域，主打mesh功能。
+近年开始以 MIFON 品牌投入消费者领域，主打 mesh 功能。
 
 - [烽火通信官网](https://www.fiberhome.com/)
-- [MIFON官网](https://mifon.com/)
+- [MIFON 官网](https://mifon.com/)
 
 ### 芯片厂商
 
