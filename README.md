@@ -739,6 +739,7 @@ Wi-Fi 6 是最新一代的 Wi-Fi 标准，基于 IEEE 802.11ax，通过多项技
 Wi-Fi 6E 则将 Wi-Fi 6 扩展到了 6GHz 频段。
 
 - [Wi-Fi Alliance® brings Wi-Fi 6 into 6 GHz](https://www.wi-fi.org/news-events/newsroom/wi-fi-alliance-brings-wi-fi-6-into-6-ghz)
+- [Wi-Fi 6E: The Basics - SmallNetBuilder](https://www.smallnetbuilder.com/basics/wireless-basics/33227-wi-fi-6e-the-basics)
 
 Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了动态窄频宽等特性，能够自动调整频宽，兼顾吞吐量和覆盖范围。具体技术细节暂时没有太多公开文档。
 
