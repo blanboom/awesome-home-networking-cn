@@ -215,7 +215,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 #### 软路由
 
-软路由一般是使用通用的硬件平台，例如 x86 服务器搭建的路由器。报文转发等功能，与普通路由器相比，较少以来专用硬件的加速，而是通过纯软件的形式处理。
+软路由一般是使用通用的硬件平台，例如 x86 服务器搭建的路由器。实现报文转发等功能，与普通路由器相比，很少利用专用硬件进行加速，而是通过纯软件的形式处理。
 
 由于软路由使用通用的硬件、拥有较大的内存、大多运行基于 Linux 或 FreeBSD 的操作系统，能够通过软件扩充更多功能，具有更强的灵活性。在性能上，软路由具有更强大的 CPU，但普通的路由器能够通过专门的硬件实现路由转发、QoS、NAT 等功能，无法进行简单的对比。
 
@@ -232,7 +232,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 * [家用千兆光猫该如何选择？ - 网络设备 - KoolShare - 源于玩家 服务玩家](http://koolshare.cn/thread-127073-1-1.html)
 * [抛弃光猫esxi+光卡+gpon stick模块上网 - 网络设备 - KoolShare - 源于玩家 服务玩家](https://koolshare.cn/thread-170674-1-1.html)
-* [双模 PON STICK ONU SFP-深圳市南天威视科技有限公司](http://www.natywish.net/product/detail/219.html)
+* [双模 PON STICK ONU SFP-深圳市南天威视科技有限公司](http://www.natywish.com/product/detail/219.html)
 
 #### 开发板
 
