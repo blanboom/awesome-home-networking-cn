@@ -918,21 +918,17 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 
 智能家居属于新兴领域，在路由器中整合智能家居相关功能，不同厂商有着不同的思路。
 
-- Apple: 自动为 HomeKit 设备设置严格的防火墙规则，提高安全性
+- Apple: 自动为 HomeKit 设备设置严格的防火墙规则，提高安全性。同时支持 PPSK 认证，避免泄漏主 Wi-Fi 密码
+  - [HomeKit 路由器 - Apple 支持](https://support.apple.com/zh-cn/guide/security/seccab60e931/1/web/1)
   - [Apple lists the cameras and routers that will be compatible with the latest HomeKit features - 9to5Mac](https://9to5mac.com/2019/11/27/apple-lists-the-cameras-and-routers-that-will-be-compatible-with-the-latest-homekit-features/)
-  - [在 Mac 上使用“家庭”配置路由器 - Apple 支持](https://support.apple.com/zh-cn/guide/home/hme76f51a4f3/mac)
-- [eero Now Supports Apple HomeKit](https://blog.eero.com/eero-now-supports-apple-homekit/)
-  
+  - [eero Now Supports Apple HomeKit](https://blog.eero.com/eero-now-supports-apple-homekit/)
 - 小米：米家设备连 Wi-Fi 免输密码，提高初次设置设备时的便捷程度；同时为只能设备提供独立的频段，避免过多智能设备拖慢网速
   - [小米AIoT路由器 AX3600](https://www.mi.com/r3600)（参考「智能设备接入」相关描述）
-
 - Google: 整合语音助手 Google Assistant；之前的 OnHub 产品还可以充当 ZigBee 网关，控制 Phillips Hue 智能照明系统
   - [Exclusive: New Google Nest Wifi adds an Assistant speaker - 9to5Google](https://9to5google.com/2019/09/17/exclusive-google-nest-wifi-assistant/)
   - [Google OnHub | Philips Hue](https://www2.meethue.com/en-ca/friends-of-hue/google-onhub)
-
 - 华为：为智能家居设备提升 QoS 优先级，使设备能够快速响应；同时也支持为自动智能家居设备设置防火墙规则
   - [华为路由 A2 - 华为商城](https://www.vmall.com/product/10086534540521.html)（参考页面中关于 IoT 设备的描述）
-
 - HomeBridge、Home Assistant 整合<br>对于开放的路由器操作系统，还可以实现在路由器上运行 HomeBridge，或者将路由器接入 Home Assistant。
   - [RT1900ac 路由器折腾笔记：安装 Homebridge 和 Plex Media Server – Blanboom](https://blanboom.org/2017/plex-on-rt1900ac/)
   - [OpenWRT - Home Assistant](https://www.home-assistant.io/integrations/openwrt/)
