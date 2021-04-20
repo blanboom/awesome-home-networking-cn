@@ -829,7 +829,7 @@ Captive Portal 功能常见于商用和企业级设备，家用路由器支持�
   - [frp](https://github.com/fatedier/frp): 支持多种协议的内网穿透工具
   - [nps](https://github.com/ehang-io/nps): 支持多种协议的内网穿透工具
   - [花生壳](https://hsk.oray.com/): 商业服务，包含 DDNS 和内网穿透，操作简单
-  - [tailscale](https://tailscale.com): 与 ZeroTier 类似，基于 WireGuard®
+  - [Tailscale](https://tailscale.com): 与 ZeroTier 类似，基于 WireGuard®
 
 - 其他
   - [Synology QuickConnect](https://www.synology.com/zh-cn/knowledgebase/SRM/help/SRM/RouterApp/internet_quickconnect)：群晖路由器/NAS 中的外部访问服务，通过群晖的服务器进行中转，仅支持访问路由器、NAS 中的部分应用
