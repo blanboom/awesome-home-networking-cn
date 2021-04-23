@@ -336,7 +336,7 @@ Linksys 成立于 1988 年，后来被 CISCO 收购。但在 2013 年 CISCO 又�
 
 因为采取「0元购」模式而受到大家的熟知。常见的型号有 K2P、K3C 和 K3。目前能在部分二手交易平台以较低的价格买到。
 
-斐讯路由器整体配置和做工都不错，也有不少人为其适配开源固件。不过购买时需要注意不用版本硬件的区别，比如 K2P 的 A 版和 B 版；K3 等型号可能还需要自己改装一下硬件，才能避免「漏油」等问题。如果喜欢折腾，可以在二手价比较低时购买。
+斐讯路由器整体配置和做工都不错，也有不少人为其适配开源固件。不过购买时需要注意不同版本硬件的区别，比如 K2P 的 A 版和 B 版；K3 等型号可能还需要自己改装一下硬件，才能避免「漏油」等问题。如果喜欢折腾，可以在二手价比较低时购买。
 
 - [斐讯官网](http://www.phicomm.com/cn/)
 - [K2P](http://www.phicomm.com/cn/index.php/Products/family_details/cateid/18/id/122.html): AC1200，根据版本的不同，支持 OpenWrt、Padavan 或 asuswrt-merlin 等
@@ -516,7 +516,7 @@ MikroTik 为知名软路由操作系统 RouterOS 的开发商，也推出了自�
 
 #### 诺基亚 Nokia
 
-来在诺基亚的 mesh Wi-Fi 系统。
+来自诺基亚的 mesh Wi-Fi 系统。
 
 - [Nokia Wi-Fi 官网](https://www.nokia.com/zh_int/node/76546/)
 
@@ -1187,6 +1187,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [macOS 自带的无线诊断](https://support.apple.com/zh-cn/guide/mac-help/mchlf4de377f/mac) macOS 自带「无线诊断」工具，具有 Wi-Fi 扫描、查看 Wi-Fi 日志、推荐最佳 Wi-Fi 频段、Wi-Fi 性能监控、抓包等功能
 * [TP-LINK 网络百宝箱](https://apps.apple.com/app/id1502063951)
 * [Netool.io - Network Engineer Tool](https://netool.io/) 小巧便携的网络诊断工具
+* [PingTools](https://pingtools.org/) Android 上便携的网络扫描工具
 
 ## ISP 相关
 
