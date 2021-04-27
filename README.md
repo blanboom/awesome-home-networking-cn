@@ -690,7 +690,7 @@ mesh 网络在多台无线路由器间相互组网，以提高 Wi-Fi 覆盖范�
 
 另外，Ubiquiti 的无线 AP 方案，由于不需要 AC、配置简单、拥有友好的图形化界面，也受到了一部分家庭用户的喜爱。
 
-无线 AP 除了可以防止在桌面和柜子，也可以选择面板式或吸顶式，从而更好地融入装修风格，并节省空间。
+无线 AP 除了可以放置在桌面和柜子，也可以选择面板式或吸顶式，从而更好地融入装修风格，并节省空间。
 
 - [Difference Between Access Point and Router](https://www.ligowave.com/difference-between-access-point-and-router)
 - [无线AP,胖AP和瘦AP的区别？](https://www.zhihu.com/question/59991119)
