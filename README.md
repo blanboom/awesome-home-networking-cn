@@ -1188,6 +1188,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [TP-LINK 网络百宝箱](https://apps.apple.com/app/id1502063951)
 * [Netool.io - Network Engineer Tool](https://netool.io/) 小巧便携的网络诊断工具
 * [PingTools](https://pingtools.org/) Android 上便携的网络扫描工具
+* [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) 使用 Docker 和 Prometheus 监控家庭网络
 
 ## ISP 相关
 
