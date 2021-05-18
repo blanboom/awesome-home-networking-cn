@@ -104,6 +104,7 @@
     * [软件更新](#%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0)
     * [Linux 安全特性的应用](#linux-%E5%AE%89%E5%85%A8%E7%89%B9%E6%80%A7%E7%9A%84%E5%BA%94%E7%94%A8)
     * [KRACK](#krack)
+    * [FragAttacks](#fragattacks)
     * [WPA3](#wpa3)
     * [防火墙配置](#%E9%98%B2%E7%81%AB%E5%A2%99%E9%85%8D%E7%BD%AE)
   * [网络质量优化](#%E7%BD%91%E7%BB%9C%E8%B4%A8%E9%87%8F%E4%BC%98%E5%8C%96)
@@ -1113,6 +1114,10 @@ KRACK 是对 WPA2 协议的一种攻击方式，在购买无线路由器或选�
 - [KRACK Attacks: Breaking WPA2](https://www.krackattacks.com/)
 - [KRACK - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-hans/KRACK)
 - [WPA2 “KRACK”漏洞简介与重现](https://paper.seebug.org/512/)
+
+### FragAttacks
+
+- [FragAttacks](https://www.fragattacks.com/)
 
 ### WPA3
 
