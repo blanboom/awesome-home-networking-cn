@@ -1195,11 +1195,11 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [PingTools](https://pingtools.org/) Android 上便携的网络扫描工具
 * [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) 使用 Docker 和 Prometheus 监控家庭网络
 
-## ISP 相关
+## 运营商
 
 ###  运营商选择
 
-按照大部分人的经验，移动宽带访问国外网站速度快，电信宽带国内线路质量较高，联通宽带则比较均衡。不过，不同地区之间存在较大差异，需要实际测试才能知道真实情况。
+不同地区、不同的运营商，在网络质量方面有着较大的差异。如果对网络质量有较高的需求，建议提前了解当地运营商的情况。
 
 另外，部分地区运营商还提供「国际精品网」等业务，能够加速国外网站的访问。
 
