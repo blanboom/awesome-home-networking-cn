@@ -272,10 +272,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 ### 选购指南
 
 - [How To Buy A Wireless Router - 2018 Edition](https://www.smallnetbuilder.com/basics/wireless-basics/33177-how-to-buy-a-wireless-router-2018-edition)
-
 - [How To Buy A Wireless Router - 2017 Edition](https://www.smallnetbuilder.com/basics/wireless-basics/33029-how-to-buy-a-wireless-router-2017-edition)
-
 - [2020 生活手册系列：家用网络配置与选购指南 – Yachen's Blog](https://yach.me/2020/10/06/2020-生活手册系列：家用网络配置与选购指南/)
+- [导购-路由器交流](https://www.acwifi.net/tag/%E5%AF%BC%E8%B4%AD)
+* [选购攻略-路由器交流](https://www.acwifi.net/tag/%E9%80%89%E8%B4%AD%E6%94%BB%E7%95%A5)
 
 ### 设备厂商与品牌
 
