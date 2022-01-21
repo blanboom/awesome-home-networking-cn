@@ -1203,6 +1203,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [Netool.io - Network Engineer Tool](https://netool.io/) 小巧便携的网络诊断工具
 * [PingTools](https://pingtools.org/) Android 上便携的网络扫描工具
 * [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) 使用 Docker 和 Prometheus 监控家庭网络
+* [iOS 查看 Wi-Fi 的详细信息 - V2EX](https://www.v2ex.com/t/821659) 苹果官方的描述文件，安装后能够查看 Wi-Fi 信道、强度、延迟等信息
 
 ## 运营商
 
