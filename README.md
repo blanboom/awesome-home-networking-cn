@@ -749,6 +749,10 @@ Wi-Fi 6E 则将 Wi-Fi 6 扩展到了 6GHz 频段。
 
 Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了动态窄频宽等特性，能够自动调整频宽，兼顾吞吐量和覆盖范围。具体技术细节暂时没有太多公开文档。
 
+Wi-Fi 6 Release 2 为 Wi-Fi 6 增加了更多特性，包括上行链路的 MU-MIMO、改进的电源管理等。
+
+* [Wi-Fi CERTIFIED 6™ Release 2 adds new features for advanced Wi-Fi® applications | Wi-Fi Alliance](https://www.wi-fi.org/news-events/newsroom/wi-fi-certified-6-release-2-adds-new-features-for-advanced-wi-fi-applications)
+
 ### 160MHz 频宽
 
 802.11ac 和 Wi-Fi 6 支持 160MHz 频宽，使用 160MHz 频宽能够大幅度提升 Wi-Fi 带宽，但是由于兼容性和干扰等问题，实际效果需要受到多种因素的影响，需要自行测试。
