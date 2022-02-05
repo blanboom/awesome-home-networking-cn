@@ -225,6 +225,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 * [软路由是什么？ - 知乎](https://www.zhihu.com/question/263523980)
 * [从听说到上手，人人都能看懂的软路由入门指南 - 少数派](https://sspai.com/post/58628)
+* [OpenWrt（与软路由）简明教程](https://larrywonss.github.io/)
 
 #### 光猫
 
