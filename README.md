@@ -68,6 +68,7 @@
   * [组网相关](#组网相关)
     * [mesh 网络、有线回程](#mesh-网络有线回程)
     * [有线路由器 + AC + AP](#有线路由器--ac--ap)
+    * [FTTR](#FTTR)
     * [VLAN 划分](#vlan-划分)
     * [单臂路由](#单臂路由)
   * [技术概念](#技术概念)
@@ -703,6 +704,15 @@ mesh 网络在多台无线路由器间相互组网，以提高 Wi-Fi 覆盖范�
 - [如何组建一个完善的家庭无线 Wi-Fi 网络？](https://www.zhihu.com/question/35789817)
 - [老生常谈，搭建无线AP，到底面板好还是吸顶好](https://www.chiphell.com/thread-1930326-1-1.html)
 - [吸顶式AP挂墙、放桌面，哪种效果好？](https://www.koolcenter.com/thread/123920)
+
+### FTTR
+
+近期国内部分运营商开始推广 FTTR 方案。FTTR 能够实现全屋光纤组网，保证了家中每个房间都能拥有较为理想的网速。
+
+FTTR 设备一般由运营商安装，用户不需要专业的网络知识即可使用。但也会导致用户无法自行「折腾」自己的网络设备。
+
+- [FTTR创新解决方案 - 华为](https://www.huawei.com/cn/technology-insights/inspiration-lab/fttr-solution)
+- [将千兆光纤带入每个房间，FTTR方案能否成运营商“新宠”？_Wi-Fi](https://www.sohu.com/a/420662765_610727)
 
 ### VLAN 划分
 
