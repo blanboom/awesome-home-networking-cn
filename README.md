@@ -28,7 +28,7 @@
       * [其他](#其他)
     * [选购指南](#选购指南)
     * [设备厂商与品牌](#设备厂商与品牌)
-      * [TP-LINK / MERCURY / FAST](#tp-link--mercury--fast)
+      * [TP\-LINK / MERCURY / FAST](#tp-link--mercury--fast)
       * [华硕 ASUS](#华硕-asus)
       * [网件 NETGEAR](#网件-netgear)
       * [领势 Linksys](#领势-linksys)
@@ -38,7 +38,7 @@
       * [小米](#小米)
       * [华为、荣耀](#华为荣耀)
       * [新华三 H3C](#新华三-h3c)
-      * [友讯 D-Link](#友讯-d-link)
+      * [友讯 D\-Link](#友讯-d-link)
       * [360](#360)
       * [群晖 Synology](#群晖-synology)
       * [优倍快 Ubiquiti](#优倍快-ubiquiti)
@@ -49,35 +49,36 @@
       * [爱快 iKuai](#爱快-ikuai)
       * [磊科](#磊科)
       * [eero](#eero)
-      * [Google Nest Wi-Fi](#google-nest-wi-fi)
+      * [Google Nest Wi\-Fi](#google-nest-wi-fi)
       * [诺基亚 Nokia](#诺基亚-nokia)
       * [烽火 FiberHome](#烽火-fiberhome)
     * [芯片厂商](#芯片厂商)
   * [操作系统](#操作系统)
     * [OpenWrt](#openwrt)
     * [ASUSWRT](#asuswrt)
-    * [padavan/rt-n56u](#padavanrt-n56u)
+    * [padavan/rt\-n56u](#padavanrt-n56u)
     * [RouterOS](#routeros)
     * [pfSence/OPNSense](#pfsenceopnsense)
     * [VyOS](#vyos)
     * [EdgeOS](#edgeos)
     * [爱快 iKuaiOS](#爱快-ikuaios)
     * [Tomato](#tomato)
-    * [DD-WRT](#dd-wrt)
+    * [DD\-WRT](#dd-wrt)
     * [高恪](#高恪)
   * [组网相关](#组网相关)
     * [mesh 网络、有线回程](#mesh-网络有线回程)
-    * [有线路由器 + AC + AP](#有线路由器--ac--ap)
-    * [FTTR](#FTTR)
+    * [有线路由器 \+ AC \+ AP](#有线路由器--ac--ap)
+    * [FTTR](#fttr)
     * [VLAN 划分](#vlan-划分)
     * [单臂路由](#单臂路由)
   * [技术概念](#技术概念)
-    * [MU-MIMO](#mu-mimo)
-    * [Wi-Fi 6、Wi-Fi 6E、Wi-Fi 6+](#wi-fi-6wi-fi-6ewi-fi-6)
+    * [MU\-MIMO](#mu-mimo)
+    * [Wi\-Fi 6、Wi\-Fi 6E、Wi\-Fi 6\+](#wi-fi-6wi-fi-6ewi-fi-6)
+    * [Wi\-Fi 7](#wi-fi-7)
     * [160MHz 频宽](#160mhz-频宽)
     * [PA/LNA/功放](#palna功放)
   * [软硬件功能](#软硬件功能)
-    * [UPnP/NAT-PMP/端口映射](#upnpnat-pmp端口映射)
+    * [UPnP/NAT\-PMP/端口映射](#upnpnat-pmp端口映射)
     * [DDNS](#ddns)
     * [流量整形与 QoS](#流量整形与-qos)
     * [Captive Portal](#captive-portal)
@@ -762,6 +763,14 @@ Wi-Fi 6+ 是华为的 Wi-Fi 6 方案，增加了动态窄频宽等特性，能�
 Wi-Fi 6 Release 2 为 Wi-Fi 6 增加了更多特性，包括上行链路的 MU-MIMO、改进的电源管理等。
 
 * [Wi-Fi CERTIFIED 6™ Release 2 adds new features for advanced Wi-Fi® applications | Wi-Fi Alliance](https://www.wi-fi.org/news-events/newsroom/wi-fi-certified-6-release-2-adds-new-features-for-advanced-wi-fi-applications)
+
+### Wi-Fi 7
+
+下一代 Wi-Fi 标准，可能会基于 IEEE 802.11be，目前相关标准正在修订中，暂未发布草案和最终标准。
+
+- [Wi-Fi 7 hardware demos herald next-gen wireless networking | Ars Technica](https://arstechnica.com/gadgets/2022/01/wi-fi-7-demos-begin-promising-speedy-connections-for-demanding-apps/)
+
+- [IEEE 802.11be - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/IEEE_802.11be)
 
 ### 160MHz 频宽
 
