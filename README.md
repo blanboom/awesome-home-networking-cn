@@ -175,6 +175,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Bilibili: NGXHK](https://space.bilibili.com/30496941)
 * [Bilibili: Vedio Talk](https://space.bilibili.com/28459251)
 * [Bilibili: 悟空的日常](https://space.bilibili.com/250915741)
+* [Bilibili: 酱紫表](https://space.bilibili.com/11544017)
 
 ### 书籍、教程
 
