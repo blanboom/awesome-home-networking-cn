@@ -251,6 +251,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 常见的带网络功能的开发板有如下几种：
 
 - [Raspberry Pi](https://www.raspberrypi.org) 等单板计算机<br>热门的单板电脑，在网上能够找到大量资源
+  - [RouterPi](https://blog.zakkemble.net/routerpi-compute-module-4-router/)：使用 Raspberry Pi CM4 制作的千兆路由器
 - [wrtnode](http://www.wrtnode.cc/)<br>运行 OpenWrt 的开发板
 - [Widora](https://wiki.widora.io/)<br>运行 OpenWrt 的开发板
 - [Arduino Yún](https://store.arduino.cc/usa/arduino-yun-rev-2)<br>运行 OpenWrt 的开发板，且内部与一块 AVR 单片机相互连接，扩展 IO 口资源，并同时融合 Arduino 和 OpenWrt 两种生态。更适合用来制作物联网相关的 DIY 作品
