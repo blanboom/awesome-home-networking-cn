@@ -1210,7 +1210,8 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 ## 网络诊断、调试工具
 
 * [Speedtest by Ookla](https://www.speedtest.net/) 知名的测速工具
-* [DSLReports Speed Test](http://www.dslreports.com/) 网络测速工具，支持 Bufferbloat 测试
+* [DSLReports Speed Test](http://www.dslreports.com/) 网络测速工具，支持 bufferbloat 测试
+* [Flent](https://flent.org) 多功能网络测试工具，打包了 `netperf`、`iperf` 等工具，可用于测试 bufferbloat
 * [Fing App](https://www.fing.com/products/fing-app) 局域网扫描、测速工具
 * [iPerf](https://iperf.fr/) 命令行测速工具，可以搭建在云端进行 ISP 测速，也可以搭建在本地，测试路由器、交换机、Wi-Fi 的最大吞吐量
 * [WiFiman](https://blog.ui.com/2018/12/11/introducing-wifiman/) Wi-Fi 扫描、局域网扫描、测速工具
