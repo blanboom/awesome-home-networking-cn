@@ -296,6 +296,11 @@ TP-LINK 是国内最知名的无线路由器品牌。价格相对较低，如果
 - [MERCURY 水星网络官网](https://www.mercurycom.com.cn)
 - [FAST 迅捷网络官网](https://www.fastcom.com.cn)
 
+近期 TP-LINK 也推出了一些工业设计出色的硬件产品，以及一些创新的软件功能，例如「纸片路由」产品，以及通过 Docker 扩展功能：
+
+- [TPLINK轻舟6088——docker新功能使用初体验\_路由器\_什么值得买](https://post.smzdm.com/p/a4pnzgkl/)
+- [TL-XDR6000易展版 AX6000双频Wi-Fi 6 无线路由器(A5纸片路由) - TP-LINK官方网站](https://www.tp-link.com.cn/product_2532.html)
+
 #### 华硕 ASUS
 
 华硕无线路由器有着较为丰富的产品线，从入门的百元级别型号，到 4000 元以上的高端型号都有覆盖，同时也有 ROG 玩家国度等特色型号。
@@ -406,6 +411,11 @@ H3C 原有业务主要侧重于企业网络，较晚推出家用无线路由器�
 - [H3C 官网](http://www.h3c.com/cn)
 - [H3C Magic B1](http://www.h3c.com/cn/Products___Technology/IntelligentTerminalProducts/Standard-Network/B/H3C_Magic_B1/): 分体式设计，外观较为简洁
 - [H3C H5](http://www.h3c.com/cn/Products___Technology/IntelligentTerminalProducts/Intelligence-Home/H/H5/): AC+AP 套装
+
+新推出的 NX15000 路由器，通过三组定向天线，实现单个路由器的大面积覆盖。是近期比较有特色的产品：
+
+- [H3C Magic NX15000万兆Wi-Fi 6路由器-新华三集团-H3C](https://www.h3c.com/cn/Products\_And\_Solution/IntelligentTerminalProducts/Star\_Products/Home\_Network/NX15000/)
+
 
 #### 友讯 D-Link
 
