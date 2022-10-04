@@ -259,6 +259,10 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 - [Marvell ESPRESSObin](http://espressobin.net/#1479827193124-28c92b06-d318)<br>带有三个网口、SATA 接口的开发板，并具有硬件转发芯片
 - [NanoPi R2S](http://wiki.friendlyarm.com/wiki/index.php/NanoPi_R2S/zh)<br>带有两个网口的开发板，能够运行 Linux，体积小巧。
 
+以及以下基于常用开发板的软路由方案：
+
+- [OpenWRT Router built with Raspberry Pi Compute Module 4, Dual Gigabit Ethernet NICs, 4GB RAM/32GB eMMC - Seeed Studio](https://www.seeedstudio.com/Dual-GbE-Carrier-Board-with-4GB-RAM-32GB-eMMC-RPi-CM4-Case-p-5029.html)<br>基于 Raspberry Pi 计算模块的软路由 DIY 套件
+
 #### 企业级设备
 
 对于网络爱好者，也可考虑企业级网络设备，例如 Aruba、Ruckus、CISCO，或者国内华为、H3C、锐捷等厂商的设备。
