@@ -778,6 +778,7 @@ Wi-Fi 6 是最新一代的 Wi-Fi 标准，基于 IEEE 802.11ax，通过多项技
 - [何为 802.11AX (WI-FI 6)？](https://www.arubanetworks.com/assets/_zh-hans/so/SO_80211ax.pdf)
 - [Wi-Fi CERTIFIED 6](https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-6)
 - [Wi-Fi 6 对我们的日常生活有哪些帮助 | 科普 - 少数派](https://sspai.com/post/60464)
+- [Aruba 的 802.11ax 白皮书](https://www.arubanetworks.com/assets/_zh-hant/wp/WP_802.11AX_zh-TW.pdf)
 
 Wi-Fi 6E 则将 Wi-Fi 6 扩展到了 6GHz 频段。
 
