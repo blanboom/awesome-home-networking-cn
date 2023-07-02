@@ -556,6 +556,12 @@ MikroTik 为知名软路由操作系统 RouterOS 的开发商，也推出了自�
 - [烽火通信官网](https://www.fiberhome.com/)
 - [MIFON 官网](https://mifon.com/)
 
+#### GL.iNet
+
+提供官方支持 OpenWrt 的迷你路由器，可玩性较高。
+
+* [GL.iNet - OpenWrt路由器丨物联网（IoT）解决方案供应商](https://www.gl-inet.cn/)
+
 ### 芯片厂商
 
 大多家用无线路由器中的 SoC，一般来自 MediaTek/Ralink、Broadcom、Qualcomm/Atheros、Realtek、Intel、海思 等几大芯片厂商。
