@@ -820,7 +820,9 @@ Wi-Fi 6 Release 2 为 Wi-Fi 6 增加了更多特性，包括上行链路的 MU-M
 
 ### UPnP/NAT-PMP/端口映射
 
-路由器通过家用宽带接入 Internet 时，运营商会为其分配一个 IP 地址。但家庭中会有电脑、手机等多种设备，多个设备都需要访问 Internet，这时候路由器为各个设备分配一个内网 IP，通过网络地址转换（NAT）来访问 Internet。
+路由器通过家用宽带接入 Internet 时，运营商会为其分配一个 IP 地址。但家庭中会有电脑、手机等多种设备，多个设备都需要访问 Internet，这时候路由器为各个设备分配一个内网 IP，通过网络地址转换（NAT）来访问 Internet:
+
+* [家庭网络中的「NAT」到底是什么？](https://blanboom.org/2021/nat/)
 
 但是，通过 NAT 的方式，内网中的设备只能主动发起对外的连接，而不能做为服务器，接收外部的连接。这种情况下，想从外部访问家中的 NAS 等设备、远程控制家中的电脑等，都会变得比较困难。同时 BT、eMule 等 P2P 分享工具的上传下载速度也会受到影响、部分语音/视频通话工具的连接质量也可能受到影响。
 
@@ -1074,7 +1076,7 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
   - [TP-Link Router works better with IFTTT](https://ifttt.com/tplink_router)
   - [z-george-ma/openwrt-iot: IoT support for OpenWRT based router](https://github.com/z-george-ma/openwrt-iot)
 - [iOS 快捷指令](https://support.apple.com/zh-cn/guide/shortcuts/welcome/ios)
-  - [‎DS router on the App Store](https://apps.apple.com/us/app/ds-router/id963699443): Synology Router Manager 的手机 App，支持 iOS 快捷指令
+  - [DS router on the App Store](https://apps.apple.com/us/app/ds-router/id963699443): Synology Router Manager 的手机 App，支持 iOS 快捷指令
 - Alexa
   - [ASUS ROUTER: Alexa Skills](https://www.amazon.com/ASUS-ROUTER/dp/B07285G1RK)
   - [Amazon Alexa Smart Home Connected Routers by NETGEAR](https://www.netgear.com/landings/amazon-alexa/)
@@ -1106,6 +1108,8 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
 ### 相关文章
 
 - [Home Router Security Report 2020](https://www.fkie.fraunhofer.de/content/dam/fkie/de/documents/HomeRouter/HomeRouterSecurity_2020_Bericht.pdf)
+- [如何增强智能家居设备的安全性](https://blanboom.org/2021/iot-device-security/)
+
 
 ### 开源固件 vs 闭源固件
 
