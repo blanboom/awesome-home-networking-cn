@@ -602,6 +602,10 @@ OpenWrt 使用 opkg 包管理系统，支持通过安装软件来扩展功能。
   - [Gargoyle](https://www.gargoyle-router.com/)<br>在国内常被称做「石像鬼固件」，具有强大的 QoS 功能。
   - [Linino](https://www.linino.org/)<br>基于 OpenWrt 的操作系统，内置 `cpu-mcu-bridge`，能够方便的在 OpenWrt 和单片机之间通信，更适合物联网应用。
 
+目前 OpenWrt 已计划推出官方的无线路由器硬件产品：
+
+* [OpenWrt One - celebrating 20 years of OpenWrt - Release and security announcements - OpenWrt Forum](https://forum.openwrt.org/t/openwrt-one-celebrating-20-years-of-openwrt/183684)
+
 ### ASUSWRT
 
 华硕路由器官方固件。同时存在知名的 asuswrt-merlin 修改版固件。
