@@ -4,6 +4,20 @@
 
 本文档主要用于整理家庭网络相关知识，目前由 [Blanboom](https://blanboom.org/) 维护。
 
+---
+
+欢迎体验 AirTerminal，一个用于 iPhone/iPad/Apple Silicon Mac 的蓝牙终端 App。配合蓝牙转串口模块，可以在移动设备上访问和调试 Raspberry Pi、路由器等设备：
+
+* [AirTerminal - BLE Terminal on the App Store](https://apps.apple.com/us/app/airterminal-ble-terminal/id1296588408)
+
+我的其他 Awesome Lists：
+
+* [blanboom/awesome-technical-diy-cn: DIY Projects/Tools/Books for Makers](https://github.com/blanboom/awesome-technical-diy-cn)
+* [blanboom/tiny-projects: 计算机科学领域的入门 DIY 项目，例如自制操作系统、CPU、编译器等](https://github.com/blanboom/tiny-projects)
+
+---
+
+
 ## 目录
 
 * [Awesome Home Networking](#awesome-home-networking)
