@@ -1002,8 +1002,9 @@ IPS/IDS 功能通过分析报文中的内容，来记录和阻止具有安全风
   - [HomeKit 路由器 - Apple 支持](https://support.apple.com/zh-cn/guide/security/seccab60e931/1/web/1)
   - [Apple lists the cameras and routers that will be compatible with the latest HomeKit features - 9to5Mac](https://9to5mac.com/2019/11/27/apple-lists-the-cameras-and-routers-that-will-be-compatible-with-the-latest-homekit-features/)
   - [eero Now Supports Apple HomeKit](https://blog.eero.com/eero-now-supports-apple-homekit/)
-- 小米：米家设备连 Wi-Fi 免输密码，提高初次设置设备时的便捷程度；同时为只能设备提供独立的频段，避免过多智能设备拖慢网速
+- 小米：米家设备连 Wi-Fi 免输密码，提高初次设置设备时的便捷程度；智能设备提供独立的频段，避免过多智能设备拖慢网速；部分设备集成了蓝牙网关功能，能够将智能家居设备接入 Internet，支持智能家居自动化的离线运行
   - [小米AIoT路由器 AX3600](https://www.mi.com/r3600)（参考「智能设备接入」相关描述）
+  - [Xiaomi路由器6500 Pro](https://www.mi.com/xiaomi-routers/6500pro)（参考其中关于内置中枢网关的描述）
 - Google: 整合语音助手 Google Assistant；之前的 OnHub 产品还可以充当 ZigBee 网关，控制 Phillips Hue 智能照明系统
   - [Exclusive: New Google Nest Wifi adds an Assistant speaker - 9to5Google](https://9to5google.com/2019/09/17/exclusive-google-nest-wifi-assistant/)
   - [Google OnHub | Philips Hue](https://www2.meethue.com/en-ca/friends-of-hue/google-onhub)
