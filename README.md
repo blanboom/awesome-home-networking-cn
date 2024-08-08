@@ -815,11 +815,10 @@ Wi-Fi 6 Release 2 为 Wi-Fi 6 增加了更多特性，包括上行链路的 MU-M
 
 ### Wi-Fi 7
 
-下一代 Wi-Fi 标准，可能会基于 IEEE 802.11be，目前相关标准正在修订中，暂未发布草案和最终标准。
+最新的 Wi-Fi 标准，基于 IEEE 802.11be，主要支持了多联路操作 MLO，支持设备使用多个频段同时传输数据，以及支持了更先进的调制方式。
 
-- [Wi-Fi 7 hardware demos herald next-gen wireless networking | Ars Technica](https://arstechnica.com/gadgets/2022/01/wi-fi-7-demos-begin-promising-speedy-connections-for-demanding-apps/)
-
-- [IEEE 802.11be - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/IEEE_802.11be)
+* [Wi-Fi CERTIFIED 7 | Wi-Fi Alliance](https://www.wi-fi.org/discover-wi-fi/wi-fi-certified-7)
+* [什么是 Wi-Fi 7？](https://www.intel.cn/content/www/cn/zh/products/docs/wireless/wi-fi-7.html)
 
 ### 160MHz 频宽
 
