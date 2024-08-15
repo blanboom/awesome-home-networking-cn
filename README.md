@@ -1337,6 +1337,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 ## DIY 相关
 
 - [家用万兆网络指南 6 - 比网线还便宜的双口万兆网卡. 如何给Mellanox网卡刷固件或备份固件 - 知乎](https://zhuanlan.zhihu.com/p/114822136)
+- [Portable Router Build: Picking Your CPU | Hackaday](https://hackaday.com/2024/08/13/portable-router-build-picking-your-cpu/)
 
 ## 常见误区、Q&A
 
