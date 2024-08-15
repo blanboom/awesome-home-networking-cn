@@ -202,6 +202,8 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 ### 设备类型
 
+* [Network Devices In Computer Networks: A Comprehensive Guide To Routers, Switches, Modems, And More - XALGORD](https://xalgord.in/network-devices-in-computer-networks/)
+
 #### 无线路由器
 
 我们平时最常见的无线路由器（SOHO 无线路由器），其实不仅仅包含路由器的功能，而是整合了路由器、防火墙、交换机、无线 AP 等多种功能为一体。操作和设置相对简单，能够满足绝大多数家庭的需求。
