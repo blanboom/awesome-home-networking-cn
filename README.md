@@ -20,6 +20,9 @@
 
 ## 目录
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 * [Awesome Home Networking](#awesome-home-networking)
   * [目录](#目录)
   * [网站与资源](#网站与资源)
