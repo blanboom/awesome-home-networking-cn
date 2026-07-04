@@ -908,6 +908,7 @@ Captive Portal 功能常见于商用和企业级设备，家用路由器支持�
 - 同时支持 NAT 打洞和服务器中转的内网穿透工具
   - [ZeroTier](https://www.zerotier.com/): 主打 NAT 打洞，NAT 打洞成功率较高。打洞失败后回退到服务器中转。
   - [frp](https://github.com/fatedier/frp): 支持多种协议的内网穿透工具
+  - [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop): 跨平台 FRP 桌面客户端（GUI），让非技术用户也能使用 frp 进行内网穿透
   - [nps](https://github.com/ehang-io/nps): 支持多种协议的内网穿透工具
   - [花生壳](https://hsk.oray.com/): 商业服务，包含 DDNS 和内网穿透，操作简单
   - [Tailscale](https://tailscale.com): 与 ZeroTier 类似，基于 WireGuard®
