@@ -1278,6 +1278,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [Netool.io - Network Engineer Tool](https://netool.io/) 小巧便携的网络诊断工具
 * [PingTools](https://pingtools.org/) Android 上便携的网络扫描工具
 * [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) 使用 Docker 和 Prometheus 监控家庭网络
+* [17NAS Port Check](https://17nas.com/port-check.php) 免费在线端口检测工具，测试任意主机的 TCP 端口是否开放，无需注册
 * [iOS 查看 Wi-Fi 的详细信息 - V2EX](https://www.v2ex.com/t/821659) 苹果官方的描述文件，安装后能够查看 Wi-Fi 信道、强度、延迟等信息
 * [IPv6 / IPv4 连接测试](https://test-ipv6.run/) 纯前端的 IPv6/IPv4 连接测试工具，可以测试 IPv4、IPv6 单栈和双栈连接性，测量延迟差异，并为网络的 IPv6 就绪程度评分
 
