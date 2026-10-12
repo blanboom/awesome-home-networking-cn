@@ -1276,6 +1276,8 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [macOS 自带的无线诊断](https://support.apple.com/zh-cn/guide/mac-help/mchlf4de377f/mac) macOS 自带「无线诊断」工具，具有 Wi-Fi 扫描、查看 Wi-Fi 日志、推荐最佳 Wi-Fi 频段、Wi-Fi 性能监控、抓包等功能
 * [TP-LINK 网络百宝箱](https://apps.apple.com/app/id1502063951)
 * [Netool.io - Network Engineer Tool](https://netool.io/) 小巧便携的网络诊断工具
+* [17NAS NetDiag](https://17nas.com/netdiag.php) - 免费在线网络诊断工具，浏览器内运行 ping、DNS 和连通性检测，无需注册。
+* [17NAS CGNAT 检测](https://17nas.com/cgnat-check.php) - 免费检测运营商是否使用 CGNAT，无需注册。
 * [PingTools](https://pingtools.org/) Android 上便携的网络扫描工具
 * [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) 使用 Docker 和 Prometheus 监控家庭网络
 * [iOS 查看 Wi-Fi 的详细信息 - V2EX](https://www.v2ex.com/t/821659) 苹果官方的描述文件，安装后能够查看 Wi-Fi 信道、强度、延迟等信息
