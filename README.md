@@ -192,6 +192,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 * [Bilibili: 悟空的日常](https://space.bilibili.com/250915741)
 * [Bilibili: 酱紫表](https://space.bilibili.com/11544017)
 * [Bilibili: 老韩一米九](https://space.bilibili.com/519402468/)
+* [Bilibili: 哥哥科技](https://space.bilibili.com/501430041)
 
 ### 书籍、教程
 
@@ -210,7 +211,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
 * [Wireless router - Wikipedia](https://en.wikipedia.org/wiki/Wireless\_router)
 
-#### 无线 mesh 系统/分布式路由
+#### 无线 Mesh 系统/分布式路由
 
 在单个无线路由器无法满足覆盖面积时，可以通过多台设备组网，扩展无线面积。无线 mesh 系统的多个节点之间可以相互通信，组成网状网络，并在通信时自动选择最佳路径。目前已有大量厂商推出家用的无线 mesh 系统。
 
@@ -866,7 +867,7 @@ DDNS 也是大部分家用路由器都会拥有的一个常见功能。由于家
 
 在家用场景下，部分应用需要比较高的带宽，但对延迟不敏感（例如在线视频、P2P 下载等）；部分应用对带宽要求不高，但对延迟敏感（例如网络游戏、语音/视频通话等）。
 
-在家中，往往会遇到 P2P 下载等占用了较大的带宽，影响了网络游戏、音视频通话等应用的流畅程度，甚至正常的浏览网页也会变慢。通过 QoS 可以解决这一问题。
+在家中，往往会遇到 P2P 下载等占用了较大的带宽，影响了网络游戏、音视频通话等应用的流畅程度，甚至正常的浏览网页也会变慢。通过 QoS 可以缓解这一问题，当然也有一派认为，只要您的宽带质量非常优异（某些特定的地区运营商，并且老 物理BRAS 负载很低，此时追求 NPU 线速转发，而不做额外的过多流控，可能体验会更好。总之，有没有硬件加速也是很重要的影响因素之一。
 
 大部分中高端型号的家用路由器都提供 QoS 功能，能够手动设置不同设备、不同应用的优先级，例如提高某款游戏，或家中某台游戏机的优先级。
 
@@ -1278,6 +1279,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [Netool.io - Network Engineer Tool](https://netool.io/) 小巧便携的网络诊断工具
 * [PingTools](https://pingtools.org/) Android 上便携的网络扫描工具
 * [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) 使用 Docker 和 Prometheus 监控家庭网络
+* [Bro-Stat](https://github.com/ucxn/Bro-Stat)  一位由哥哥科技开发的民间插件，名字翻译过来就是统计之意，该仓库主要负责适配各大国内消费级主流的硬路由品牌，还有对应的联动组件，限于篇幅，不在这里展开；名为插件，但是并不用给路由器刷机，解锁 Telnet 或者 SSH。相反，它在前端通过精妙的数学算法，将路由器后台隐藏的网速数值给显示出来，同时还对数值做过一些校正处理，[算法](https://github.com/ucxn/ZTE-Stat_Max/blob/main/%E4%B8%AD%E5%85%B4%E5%90%8D%E8%AF%8D%E5%AF%B9%E7%85%A7%E8%A1%A8.md)研究主要在这里。组件本体依然是油猴/脚本猫拓展，现也推出了手机 APP，方便移动端使用。
 * [iOS 查看 Wi-Fi 的详细信息 - V2EX](https://www.v2ex.com/t/821659) 苹果官方的描述文件，安装后能够查看 Wi-Fi 信道、强度、延迟等信息
 * [IPv6 / IPv4 连接测试](https://test-ipv6.run/) 纯前端的 IPv6/IPv4 连接测试工具，可以测试 IPv4、IPv6 单栈和双栈连接性，测量延迟差异，并为网络的 IPv6 就绪程度评分
 
