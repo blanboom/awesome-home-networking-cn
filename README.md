@@ -1270,6 +1270,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [WiFi魔盒](https://wis.ruijie.com.cn/wmg/static/homepager/index.htm) 多功能 Wi-Fi 检测工具，能够在多个 AP、mesh 组网等情况下，进行 Wi-Fi 漫游测试
 * [AirPort 实用工具](https://apps.apple.com/cn/app/airport-%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/id427276530) Wi-Fi 扫描与信号强度检测工具（由于系统的限制，这是 iOS 上唯一一个能实现相关功能的工具）
 * [iStumbler](https://istumbler.net/) macOS 上的 Wi-Fi 扫描工具
+* [Kilobat CLI](https://github.com/seifip/kilobat-cli) macOS 14+ 网络诊断命令行工具，支持 DNS、延迟及代理路由检查、JSON 输出和终端仪表盘（GPL-3.0-only）
 * [WiFi Explorer](https://www.adriangranados.com/) macOS 上的 Wi-Fi 扫描工具
 * [Hurricane Electric Network Tools](https://networktools.he.net/) 用于 iOS 和 Android 的网络工具箱，包含 DNS 查询、接口信息、iPerf、Bonjour 浏览器等多种工具
 * [Rumble Network Discovery](https://www.rumble.run/) 功能强大的局域网扫描工具
