@@ -1280,6 +1280,7 @@ WPA3 是新的 Wi-Fi 安全协议，改进了 WPA2 的一些安全性弱点。
 * [geerlingguy/internet-monitoring](https://github.com/geerlingguy/internet-monitoring) 使用 Docker 和 Prometheus 监控家庭网络
 * [iOS 查看 Wi-Fi 的详细信息 - V2EX](https://www.v2ex.com/t/821659) 苹果官方的描述文件，安装后能够查看 Wi-Fi 信道、强度、延迟等信息
 * [IPv6 / IPv4 连接测试](https://test-ipv6.run/) 纯前端的 IPv6/IPv4 连接测试工具，可以测试 IPv4、IPv6 单栈和双栈连接性，测量延迟差异，并为网络的 IPv6 就绪程度评分
+* [Rockxy](https://github.com/RockxyApp/Rockxy) macOS 原生开源 HTTP/HTTPS 调试代理，可检查、修改和重放来自 Mac 应用、命令行或 iOS 设备的请求，适合排查家庭网络中设备与服务的 API 通信问题。
 
 ## 运营商
 
